@@ -1,2 +1,2 @@
 # practice-1
-For teaching Bootcamp
+Plan for teaching Bootcamp at Coding For Indonesia (CoFi)
