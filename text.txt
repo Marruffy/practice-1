@@ -1,7 +1,8 @@
 Plan untuk Bootcamp "Coding for Indonesia" (CoFi):
 - Bootcamp selama 12 minggu
-- Bulan pertama : Pengenalan Data Science, Dasar Phyton, Pengenalan Package/Library, Numpy/Pandas/Matplotlib, 
-                  Data Cleaning, Data VIsualization, Feature Engineering
-- Bulan Kedua   : Pengenalan Machine Learning, Model Supervised, Model Unsupervised, Metric Analysis, 
+- Bulan pertama : Pengenalan Data Science, Pengenalan Github, Tools yang digunakan (Installasi),
+                  Dasar Phyton, Pengenalan Package/Library, Numpy/Pandas/Matplotlib, 
+                  Data Cleaning, Data Visualization, Feature Engineering
+- Bulan Kedua   : Pengenalan Machine Learning, Model Supervised, Model Unsupervised, Metric Analysis, Scalling
                   Cross Validation, Model Improvement (Hyperparameter)
 - Bulan Ketiga  : Pengenalan Deep Learning, Usecase Supervised menggunakan Deep Learning, Capstone Project (Project Akhir)                  
