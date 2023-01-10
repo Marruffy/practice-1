@@ -1,6 +1,6 @@
 Month 1 - Week 1:
 - Day 1 : Pengenalan Data Science, Tools/Installasi, Introduction to Python 
-- Day 2 : Introduction to Data Science, Data Types, Print, Looping
-- Day 3 : Conditions, Functions, Package
-- Day 4 : Pandas & Numpy, Github
-- Day 5 : Presentation/Live Code
+- Day 2 : Introduction to Data Science, Data Types, Print, Conditions
+- Day 3 : Looping, Functions, Package
+- Day 4 : Pandas, Github
+- Day 5 : Numpy, Presentation/Live Code
