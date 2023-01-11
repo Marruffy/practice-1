@@ -1,0 +1,8 @@
+Day 1:
+09.30 - 10.20 : Introduction to Data Science
+10.30 - 11.20 : Introduction Data Science tools & Installation
+11.30 - 12.30 : Istirahat
+12.30 - 14.00 : Introduction to Python, Data Types, Print
+14.00 - 15.00 : Conditions, Looping, Functions, Package
+15.00 - 15.30 : Istirahat
+16.00 - 17.30 : Numpy, Pandas
