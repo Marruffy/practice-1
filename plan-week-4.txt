@@ -1,0 +1,8 @@
+Day 22:
+09.30 - 10.20 : Data Collection
+10.30 - 11.20 : Web Scrapping
+11.30 - 12.30 : Istirahat
+12.30 - 14.00 : Data Cleaning 
+14.00 - 15.00 : Data Preparation
+15.00 - 15.30 : Istirahat
+16.00 - 17.30 : Statical Analysis (Materinya sejauh apa)
